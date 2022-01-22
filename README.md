@@ -1,6 +1,6 @@
 ### Hello Folks 👋
 - My name is Saurabh Singh😄
-- I am interested in learning Data Analysis and Data Science 🔭
+- I am interested in learning _Data Analysis and Data Science_ 🔭
 
 <!--
 **shhoonya/shhoonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
