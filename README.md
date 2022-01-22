@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello Folks 👋
 - My name is Saurabh Singh😄
-- I am just getting started on github.com🔭
-- 🌱 I'm currently learning programming - shell scripting and Python programming
-- 🤔 I’m looking for any help with these programming languages and how to use github
-- 📫 - saurabhedx@gmail.com
+- I am just getting started 🔭
 
 <!--
 **shhoonya/shhoonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
